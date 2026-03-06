@@ -202,7 +202,9 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ##  Author
 
 **Varshini UmaShankar**
-> Built with passion for making Cypress tests smarter and more resilient.
+> Built with passion for making Cypress tests smarter and more resilient.<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/u-varshini)<br>
+[![Demo](https://img.shields.io/badge/Demo-View%20Site-green?style=for-the-badge&logo=google)](https://sites.google.com/view/smartelementdetect-varshini/self-healing-selectors/)
 
 ---
 
