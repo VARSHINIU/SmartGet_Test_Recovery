@@ -214,4 +214,3 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
- **If this project helped you, please give it a star on GitHub!**
