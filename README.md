@@ -10,6 +10,8 @@
 
 When a selector (XPath or CSS) **fails to find an element**, SmartAI doesn't just throw an error — it **intelligently scans the DOM**, uses a clue (text, id, or class hint) to find the best matching element, and **automatically recovers** — keeping your tests running without manual intervention.
 
+![SmartHeal Demo](assets/ValidSelectors.jpg)
+![SmartHeal Demo](assets/SmartGetTest.jpg)
 ---
 
 ## The Problem It Solves
