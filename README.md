@@ -1,4 +1,4 @@
-# SmartAI — Self-Healing Cypress Selector
+# SmartGet — Self-Healing Cypress Selector
 
 > A custom Cypress command that **automatically recovers from broken selectors** using AI-powered fallback logic — no more flaky tests due to outdated XPath or CSS selectors.
 
